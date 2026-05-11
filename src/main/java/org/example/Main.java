@@ -5,7 +5,5 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("good morning");
-        Demo d=new Demo();
-        d.show();
     }
 }
